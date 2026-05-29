@@ -1,1 +1,1 @@
-. tables 
+. tables -- mostra todas as tabelas que existe no banco de dados
