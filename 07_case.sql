@@ -1,3 +1,10 @@
+-- Intervalos
+-- De 0 a 500      -> Ponei
+-- De 501 a 1000   -> Ponei Premium
+-- De 1001 a 5000  -> Mago Aprendiz
+-- De 5001 a 10000 -> Mago Mestre
+-- +10001          -> Mago Supremo  
+
 
 SELECT 
     idCliente,
